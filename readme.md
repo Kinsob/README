@@ -27,11 +27,24 @@ Ten kolor `#ffffff` do jasnego trybu a `#0d1117` do ciemnego.
 
 Kolory możemy zapisywać za pomocą HEX `#0969DA`, `rgb(9, 105, 218)` oraz HSL `hsl(212, 92%, 45%)`.
 
-Lista:
+
+### Lista 1 uporządkowana:
+1. James Madison
+2. James Monroe
+3. John Quincy Adams 
+
+
+### Lista 2 nieuporządkowana:
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+### Lista 3 nieuporządkowana zagnieżdżona:
 * Item 1
 * Item 2
     * Item 2a
     * Item 2b
+
 
 To jest link do [GitHub](http://github.com)
 
