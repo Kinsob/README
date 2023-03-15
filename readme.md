@@ -39,4 +39,4 @@ Tekst <sup>tekst</sup>.
 
 Tekst <sub>tekst</sub>.
 
-To jest zdjęcie ![FOKA](https://pixabay.com/images/id-2469335/)
+To jest zdjęcie ![FOKA](/P1/Git/seal-g35f9df47b_1920.jpg)
