@@ -25,7 +25,7 @@ git commit
 
 Ten kolor `#ffffff` do jasnego trybu a `#0d1117` do ciemnego.
 
-Kolory możemy zapisywać za pomocą HEX `#0969DA`, `rgb(9, 105, 218)` oraz HSL `hsl(212, 92%, 45%).
+Kolory możemy zapisywać za pomocą HEX `#0969DA`, `rgb(9, 105, 218)` oraz HSL `hsl(212, 92%, 45%)`.
 
 Lista:
 * Item 1
@@ -39,4 +39,4 @@ Tekst <sup>tekst</sup>.
 
 Tekst <sub>tekst</sub>.
 
-To jest zdjęcie ![FOKA](https://pixabay.com/images/id-2469335/img)
+To jest zdjęcie ![FOKA](https://pixabay.com/images/id-2469335/)
